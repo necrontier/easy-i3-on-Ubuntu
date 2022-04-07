@@ -37,6 +37,8 @@ Open Nautilus: win+F3
 
 Open Snap Store: win+F4
 
+Print Button takes a Screenshot of the entire  Desktop.
+
 Close Window/Programm: win+q
 
 Switch Workspace: win+NUMBER-OF-THE-WORKSPACE-YOU WANT-TO-GO-TO (by default i3 has 10 workspaces)
