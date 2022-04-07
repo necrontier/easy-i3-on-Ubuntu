@@ -7,7 +7,7 @@ as few extra dependencies to be installed by the User.
 Allowing for a easy way for to test i3wm in a familiar enviroment.
 
 
-The config file from this Repo has to replace the one in .config/i3/
+The config file from this Repo has to be placed in .config/i3/   (The folder called i3 can be manual created if it doesnt exist.)
 
 Required Software:
 
