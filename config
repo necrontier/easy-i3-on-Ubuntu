@@ -64,6 +64,7 @@ bindsym $mod+d exec rofi -show drun
 bindsym $mod+F2 exec firefox
 bindsym $mod+F3 exec nautilus
 bindsym $mod+F4 exec snap-store
+bindsym Print		exec gnome-screenshot
 
 # change focus
 bindsym $mod+j focus left
